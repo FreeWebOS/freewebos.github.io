@@ -1,0 +1,24 @@
+# Site settings
+title: FreeWebOS
+email: 
+username: FreeWebOS
+description: "OpenWebOS port to FreeBSD"
+baseurl: ""
+url: "http://freewebos.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Set comment provider to 'disqus' or 'facebook' to enable one of those systems
+# otherwise comments are disabled. See post template for details.
+comments :
+  provider : disqus
+  disqus :
+    shortname: freewebos
+  facebook :
+    appid : 666308690117034
+    num_posts: 5
+    width: 580
+    colorscheme: light
+

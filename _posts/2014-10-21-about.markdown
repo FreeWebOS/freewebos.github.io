@@ -1,0 +1,13 @@
+---
+layout: post
+comments: true
+title:  "About the project"
+date:   2014-06-24 14:32:03
+categories: update
+---
+
+Welcome to FreeWebOS. It is an attempt to port OpenWebOS to FreeBSD, while
+keeping the code reasonably cross-platform. Check out our repositories on
+[github][me].
+
+[me]:       http://github.com/FreeWebOS

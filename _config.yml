@@ -2,7 +2,7 @@
 title: FreeWebOS
 email: 
 username: FreeWebOS
-description: "OpenWebOS port to FreeBSD"
+description: "WebOS on FreeBSD"
 baseurl: ""
 url: "http://freewebos.github.io"
 
@@ -17,7 +17,7 @@ comments :
   disqus :
     shortname: freewebos
   facebook :
-    appid : 666308690117034
+    appid : get_an_app_id
     num_posts: 5
     width: 580
     colorscheme: light

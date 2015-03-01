@@ -4,14 +4,15 @@ title: Contributing
 permalink: /contributing/
 ---
 
-Check out our repsistories on [github.][gh] Contributions are very welcome and
-appreciated.
+All contributions are welcome! Any contribution request would be considered,
+and accepted contributors will have their name added to the authors list.
 
-Porting efforts (and particularily contributions to Ports Collections) are
-documented in [portdev][pd] repository.
-
-Some ideas on projects can be found [here][contrib].
+For coding, check out our repositories on [github.][gh] Porting efforts (and
+particularly contributions to Ports Collections) are documented in
+[portdev][pd] repository, which has a [wiki page][contrib] describing potential
+projects.
 
 [gh]:       http://github.com/FreeWebOS
 [pd]:       http://github.com/FreeWebOS/freewebos-portdev/
-[contrib]:  https://github.com/FreeWebOS/freewebos-portdev/blob/master/docs/Contributing.md
+[contrib]:  https://github.com/FreeWebOS/freewebos-portdev/wiki/Contributing
+
